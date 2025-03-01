@@ -1,9 +1,4 @@
 print("welcome back")
-print("welcome back")
-print("welcome back to pull")
-print("welcome back")
-print("welcome back")
-print("welcome back to pull")
-print("welcome back")
-print("welcome back")
-print("welcome back to pull")
+a = 5
+b = 7
+print(c)
